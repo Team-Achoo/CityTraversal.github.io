@@ -1,39 +1,17 @@
-## Welcome to GitHub Pages
+# City Traversal
 
-You can use the [editor on GitHub](https://github.com/Team-Achoo/CityTraversal.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Team Achoo Members
+- Alyssia Chen, ICS, Junior
+- Chak Hon Lam, ICS, Junior
+- Hannah Knox, ACM, Senior
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Synopsis and Concept
+In this game, the player plays as a crane operator, contracted to move a statue from one end of the city to another. To maximize their pay out, the player must minimize the damage they do to the city while safely delivering the statue to it's destination. This job will not be easy, everything in this city is fragile and expensive, anything from brids, cars and buildings will become obstacles between the player and their payday.
 
-### Markdown
+### Concept Images
+![Concept Image 1](Images\Concepts\concept1.jpg)
+![Concept Image 2](Images\Concepts\concept2.jpg)
+![Concept Image 3](Images\Concepts\concept3.jpg)
 
-test
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Team-Achoo/CityTraversal.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Links
+[TRELLO Board](https://trello.com/b/GorGkVDi/game-design-project)
