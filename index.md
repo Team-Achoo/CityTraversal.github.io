@@ -43,9 +43,7 @@ In this game, the player plays as a crane operator, contracted to move a statue 
 [Final Video](https://drive.google.com/drive/folders/1ZmICOlX4uj3m96gf7T8vVr788lh95MzJ?usp=sharing)
 
 ### Picture of assets
-![Final Image 1](Images\Final\Citizens.png){: width="50%"}
-![Final Image 2](Images\Final\LandingPlatformFinal.png){: width="50%"}
-![Final Image 3](Images\Final\ViewFromInsideCrane.png){: width="50%"}
+![Final Image 1](Images\Final\Citizens.png){: width="33%"} ![Final Image 2](Images\Final\LandingPlatformFinal.png){: width="33%"} ![Final Image 3](Images\Final\ViewFromInsideCrane.png){: width="33%"}
 
 ### More picture of assets
 [Link to Google Drive](https://drive.google.com/drive/folders/1-8yR4m7qs7H9RiYjsXwxcZ68xNU2i8DF?usp=sharing)
